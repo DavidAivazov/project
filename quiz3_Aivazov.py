@@ -178,27 +178,27 @@ def money_course():
             print(f'{rate} : {con_rates[rate]}')
         add_db = str(input('გსურთ მონაცემების ბაზაში შენახვა?: '))
         if add_db in ['კი', 'yes', '']:
-            #setting connection with our DB
+            # setting connection with our DB
             conn = sqlite3.connect(f"{lower(money)}_course.sqlite")
-            #adding cursor
+            # adding cursor
             c = conn.cursor()
-            #db_name
+            # db_name
             db_name = f'{lower(money)}_course'
-            #query - creating table with name db_name and values currecncy and value
+            # query - creating table with name db_name and values currecncy and value
             c.execute(f'''CREATE TABLE {db_name}
             (id INTEGER PRIMARY KEY AUTOINCREMENT,
             currency VARCHAR(50),
             value VARCHAR(100));''')
-            #adding values in db
+            # adding values in db
             for rate in con_rates:
                 c.execute(f"INSERT INTO {db_name} (currency, value) VALUES (?,?)", (rate, con_rates[rate]))
                 conn.commit()
-            #getting result
+            # getting result
             search_result = c.execute(f"SELECT * FROM {db_name}")
-            #printing result
+            # printing result
             for row in search_result:
                 print(row)
-            #close connection
+            # close connection
             conn.close()
         continue_ = str(input('გსურთ გაგრძელება?: '))
         if lower(continue_) in ['კი', 'yes', '']:
