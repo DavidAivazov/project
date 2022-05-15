@@ -1,0 +1,226 @@
+"Python Tutorial: Zip Files – Creating and Extracting Zip Archives,"""
+In this video, we will be learning how to create and extract zip archives. We will start by using the zipfile module, and then we will see how to do this using the shutil module. We will learn how to do this with single files and directories, as well as learning how to use gzip as well. Let’s get started…
+
+"
+Python Data Science Tutorial: Analyzing the 2019 Stack Overflow Developer Survey,"
+In this Python Programming video, we will be learning how to download and analyze real-world data from the 2019 Stack Overflow Developer Survey. This is terrific practice for anyone getting into the data science field. We will learn different ways to analyze this data and also some best practices. Let’s get started…
+
+
+
+"
+Python Multiprocessing Tutorial: Run Code in Parallel Using the Multiprocessing Module,"
+In this Python Programming video, we will be learning how to run code in parallel using the multiprocessing module. We will also look at how to process multiple high-resolution images at the same time using a ProcessPoolExecutor from the concurrent.futures module. Let’s get started…
+
+
+
+"
+Python Threading Tutorial: Run Code Concurrently Using the Threading Module,"
+In this Python Programming video, we will be learning how to run threads concurrently using the threading module. We will also look at how to download multiple high-resolution images online using a ThreadPoolExecutor from the concurrent.futures module. Let’s get started…
+
+
+
+"
+Update (2019-09-03),"
+Hey everyone. I wanted to give you an update on my videos. I will be releasing videos on threading and multiprocessing within the next week. Thanks so much for your patience. I currently have a temporary recording studio setup at my Airbnb that will allow me to record and edit the threading/multiprocessing videos. I am going to be moving into my new house in 10 days and once I have my recording studio setup then you can expect much faster video releases. I really appreciate how patient everyone has been while I go through this move, especially those of you who are contributing monthly through YouTube 
+"
+Python Quick Tip: The Difference Between “==” and “is” (Equality vs Identity),"
+In this Python Programming Tutorial, we will be learning the difference between using “==” and the “is” keyword when doing comparisons. The difference between these is that “==” checks to see if values are equal, and the “is” keyword checks their identity, which means it’s going to check if the values are identical in terms of being the same object in memory. We’ll learn more in the video. Let’s get started…
+
+
+
+"
+Python Tutorial: Calling External Commands Using the Subprocess Module,"
+In this Python Programming Tutorial, we will be learning how to run external commands using the subprocess module from the standard library. We will learn how to run commands, capture the output, handle errors, and also how to pipe output into other commands. Let’s get started…
+
+
+
+"
+Visual Studio Code (Windows) – Setting up a Python Development Environment and Complete Overview,"
+In this Python Programming Tutorial, we will be learning how to set up a Python development environment in VSCode on Windows. VSCode is a very nice free editor for writing Python applications and many developers are now switching over to this editor. In this video, we will learn how to install VSCode, get the Python extension installed, how to change Python interpreters, create virtual environments, format/lint our code, how to use Git within VSCode, how to debug our programs, how unit testing works, and more. We have a lot to cover, so let’s go ahead and get started…
+VSCode on MacOS – https://youtu.be/06I63_p-2A4
+Timestamps for topics in this tutorial: Installation – 1:13 Python Extension – 5:48 Switching Interpreters – 10:04 Changing Color Themes – 12:35 VSCode Settings – 16:16 Set Default Python – 21:33 Using Virtual Environments – 25:10 IntelliSense – 29:45 Code Formatting – 32:13 Code Linting – 37:06 Code Runner Extension – 39:42 Git Integration – 47:44 Use Different Terminal – 51:07 Debugging – 58:45 Unit Testing – 1:03:25 Zen Mode – 1:09:55
+
+
+
+"
+Visual Studio Code (Mac) – Setting up a Python Development Environment and Complete Overview,"
+In this Python Programming Tutorial, we will be learning how to set up a Python development environment in VSCode on MacOS. VSCode is a very nice free editor for writing Python applications and many developers are now switching over to this editor. In this video, we will learn how to install VSCode, get the Python extension installed, how to change Python interpreters, create virtual environments, format/lint our code, how to use Git within VSCode, how to debug our programs, how unit testing works, and more. We have a lot to cover, so let’s go ahead and get started…
+VSCode on Windows – https://youtu.be/-nh9rCzPJ20
+Timestamps for topics in this tutorial: Installation – 1:11 Python Extension – 6:21 Switching Interpreters – 10:16 Changing Color Themes – 13:08 VSCode Settings – 17:12 Set Default Python – 22:24 Using Virtual Environments – 25:52 IntelliSense – 30:28 Code Formatting – 33:08 Code Linting – 38:01 Code Runner Extension – 40:45 Git Integration – 49:05 Debugging – 58:15 Unit Testing – 1:02:38 Zen Mode – 1:10:42 
+
+
+
+"
+Clarifying the Issues with Mutable Default Arguments,"
+In this Python Programming Tutorial, we will be clarifying the issues with mutable default arguments. We discussed this in my last video titled “5 Common Python Mistakes and How to Fix Them”, but I received many comments from people who were still confused. So we will be doing a deeper dive to explain exactly what is going on here. Let’s get started…
+
+
+
+"
+5 Common Python Mistakes and How to Fix Them,"
+In this Python Programming Tutorial, we will be going over some of the most common mistakes. I get a lot of questions from people every day, and I have seen a lot of people making these same mistakes in their code. So we will investigate each of these common mistakes and also look at the fixes for each other these as well. Here are the timestamps for each topic we will cover… 1) Indentation and Spaces – 0:45 2) Naming Conflicts – 4:12 3) Mutable Default Args – 10:05 4) Exhausting Iterators – 16:35 5) Importing with * – 22:13
+
+
+
+"
+How I Setup a New Development Machine – Using Scripts to Automate Installs and Save Time,"
+In this video, I’ll be showing how I set up a new development machine. I recently got a new MacBook and wanted to show how I use scripts to automate a lot of this process. It used to take me a lot of time to install all of my software and get everything set up the way I like it. Now I use these automated scripts to do this in minutes. Let’s get started…
+
+
+
+"
+How to Write Python Scripts to Analyze JSON APIs and Sort Results,"
+In this Python Programming Tutorial, we will be learning how to grab data from a JSON API, parse out the information we want, and then sort the data using a custom key. The API we will be using is a JSON API for Homebrew Packages and we will be sorting the packages by their popularity. We cover a lot of topics in this tutorial. We will be using the Requests Library, converting to/from JSON, reading and writing to files, writing our own sorting function, and more. Let’s get started…
+
+
+
+"
+Homebrew Tutorial: Simplify Software Installation on Mac Using This Package Manager,"
+In this video, we’ll be learning how to use the Homebrew Package Manager on MacOS. Brew allows us to easily install command-line tools with a simple command. We can also install native applications for Mac using Brew Cask. I often use these commands in scripts to install a lot of new software quickly and easily on new machines. Let’s get started…
+
+
+
+"
+Python Tutorial: VENV (Windows) – How to Use Virtual Environments with the Built-In venv Module,"
+In this Python Programming Tutorial, we will be learning how to use virtual environments on the Windows operating systems with the built-in venv module. We will learn how to create them, activate them, remove them, and much more. Let’s get started…
+
+
+
+"
+Python Tutorial: VENV (Mac & Linux) – How to Use Virtual Environments with the Built-In venv Module,"
+In this Python Programming Tutorial, we will be learning how to use virtual environments on the Mac and Linux operating systems with the built-in venv module. We will learn how to create them, activate them, remove them, and much more. Let’s get started…
+
+
+
+"
+10 Python Tips and Tricks For Writing Better Code,"
+In this Python Programming video, we will be going over 10 tips and tricks for writing Pythonic code. Here are the timestamps for each topic we will cover… 1) Ternary Conditionals – 0:34 2) Underscore Placeholders – 2:13 3) Context Managers – 4:25 4) Enumerate – 6:50 5) Zip – 8:52 6) Unpacking – 13:02 7) Setattr/Getattr – 19:08 8) GetPass – 26:24 9) Python dash m – 29:18 10) Help/Dir – 33:17 
+
+
+
+"
+How to Send Emails Using Python – Plain Text, Adding Attachments, HTML Emails, and More"","""
+In this Python Programming Tutorial, we will be learning how to send emails. We’ll start with simple plain text emails and then learn how to construct more advanced messages. We will learn how to attach images, PDFs, create HTML messages, and more. Let’s get started…
+
+
+
+"
+Python Tutorial: Web Scraping with Requests-HTML,"
+In this Python Programming Tutorial, we will be learning how to scrape websites using the Requests-HTML library. Requests-HTML is an excellent tool for parsing HTML code and grabbing exactly the information you need. So whether you’re pulling down headlines from news sites, scores from sports websites, or prices from an online store… Requests-HTML and Python will help you get this done quickly and easily. Let’s get started… 
+
+
+
+"
+Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers"","""
+In this Python Programming Tutorial, we’re going to be looking at a real-world example of writing a script to monitor a website. If the website doesn’t return a successful response for any reason then we will send an email and reboot the web server. Let’s get started…
+
+
+
+"
+Python Requests Tutorial: Request Web Pages, Download Images, POST Data, Read JSON, and More"",""In this Python Programming Tutorial, we will be learning how to use the Requests library. The Requests library allows us to send HTTP requests and interact with web pages. We will be learning how to grab the source code of a site, download images, POST form data to routes, read JSON responses, perform authentication, and more. Let’s get started…"
+
+"
+Python Django Tutorial: Deploying Your Application (Option #2) – Deploy using Heroku,In this Python Django Tutorial, we will be learning how to deploy our application to Heroku. Heroku is a platform that abstracts away a lot of the low-level system administration and allows us to easily deploy, update, and rollback changes for our application. Let’s get started…"
+
+"
+Python Django Tutorial: Full-Featured Web App Part 13 – Using AWS S3 for File Uploads,In this Python Django Tutorial, we will be learning how to set up AWS S3 so that we can host our media files from that service instead of our local filesystem. AWS S3 is very affordable and will also allow our application to scale much more than if our files lived on our local filesystem. Let’s get started…"
+
+"
+Python Django Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let’s Encrypt,In this Python Django Tutorial, we will be learning how to enable HTTPS on our web server with a free SSL/TLS certificate using a service called “Let’s Encrypt”. Let’s Encrypt is a Certificate Authority that lets anyone obtain, renew, and manage certificates for their site. They’re a non-profit and provide all of this for free, and it’s easy to get running on our server, so let’s go ahead and get started…"
+
+"
+Python Flask Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let’s Encrypt,In this Python Flask Tutorial, we will be learning how to enable HTTPS on our web server with a free SSL/TLS certificate using a service called “Let’s Encrypt”. Let’s Encrypt is a Certificate Authority that lets anyone obtain, renew, and manage certificates for their site. They’re a non-profit and provide all of this for free, and it’s easy to get running on our server, so let’s go ahead and get started…"
+
+"
+Python Django Tutorial: How to Use Custom Domain Name For Our Application,In this Python Django Tutorial, we will be learning how to set up a custom domain name for our application. We will use NameCheap as our domain registrar and Linode to host our server. Let’s get started…"
+
+"
+Python Flask Tutorial: How to Use Custom Domain Name For Our Application,In this Python Flask Tutorial, we will be learning how to set up a custom domain name for our application. We will use NameCheap as our domain registrar and Linode to host our server. Let’s get started…"
+
+"
+Python Flask Tutorial: Deploying Your Application (Option #1) – Deploy to a Linux Server,In this Python Flask Tutorial, we will be learning how to deploy our application to a Linux Server from scratch using Linode. We will be covering the entire deployment of a Flask application. This includes spinning up a new Linux Server and tightening its security with SSH keys and firewalls. Then we will install Nginx and Gunicorn so that we can get our Flask App running. Let’s get started…"
+
+"
+Python Django Tutorial: Deploying Your Application (Option #1) – Deploy to a Linux Server,In this Python Django Tutorial, we will be learning how to deploy our application to a Linux Server from scratch using Linode. We will be covering the entire deployment of a Django application. This includes spinning up a new Linux Server and tightening its security with SSH keys and firewalls. Then we will install Apache and Mod_WSGI so that we can get our Django App running. Let’s get started…"
+
+"
+Python Tutorial: Itertools Module – Iterator Functions for Efficient Looping,In this Python Programming Tutorial, we will be learning about the itertools module. The itertools module is a collection of functions that allows us to work with iterators in an efficient way. Depending on your problem, this can save you a lot of memory and also a lot of work. Let’s get started…"
+
+"
+Python Coding Problem: Creating Your Own Iterators,In this Python Coding Problem, we will be creating our own iterators from scratch. First, we will create an iterator using a class. Then we will create an iterator with the same functionality using a generator. If you haven’t watched the tutorial video on Iterators and Iterables then I would suggest watching that first. With that said, let’s get started…"
+
+"
+Python Tutorial: Iterators and Iterables – What Are They and How Do They Work?,In this Python Programming Tutorial, we will be learning about iterators and iterables. There is a lot of confusion around these terms and exactly what they mean. We’re also going to learn how to make an object ourselves that is both an iterable and an iterator. This video isn’t only about understanding these definitions. It’s also about understanding the concepts of iterators so that you can write better code. Understanding these underlying concepts is going to help you write code that is more efficient and will also help you see solutions to certain problems in a way you might not have thought of before. So with that said, let’s get started…"
+
+"
+Python Tutorial: Pipenv – Easily Manage Packages and Virtual Environments,In this Python Programming Tutorial, we will be learning how to use Pipenv. Pipenv is a new package manager that combines pip and virtualenv into one easy-to-use tool. We will learn how to install pipenv, how to install new packages, how to manage our newly created environment for our project, and also look at some more advanced use cases. Let’s get started…"
+
+"
+Python Django Tutorials – Full Series,Tutorial 1: Getting Started"
+In this Python Django Tutorial, we will be learning how to get started using the Django framework. We will install the necessary packages and get a basic application running in our browser.
+
+
+Tutorial 2: Applications and Routes
+In this Python Django Tutorial, we will be creating a blog application within our Django project. We will also learn how to create URL patterns that are handled by our application views.
+Read more…
+"
+Best Sublime Text Features and Shortcuts,In this video, we will be learning about my favorite Sublime Text features and shortcuts for Windows. Knowing your way around your text editor will help you get things done much faster and be more productive. The features in this video have saved me a ton of time over the years. I have two different versions of this video depending on your operating system…"
+Windows:
+
+Mac:
+
+"
+Python Tutorial: How to Set the Path and Switch Between Different Versions/Executables,In this Python Programming Tutorial, we will be learning how to set the PATH environment variable. We will also learn how to modify the PATH in order to switch between different Python versions and executables. This is an essential skill that trips up many people when they first start learning Python and will definitely help you in many real-world situations. I have two different versions of this video depending on your operating system…"
+Windows:
+
+Mac/Linux:
+
+"
+Python Quick Tip: F-Strings – How to Use Them and Advanced String Formatting,In this Python Programming Tutorial, we will be learning how to use f-strings to format strings. F-strings are new to Python3.6+ and are extremely useful once you learn how to use them. Viewers have likely seen me use f-strings in previous videos so this video will go into detail exactly how to use them so that everyone can follow along confidently. Let’s get started…"
+
+"
+Big Announcements, Video Updates, and Future Plans"",""For those of you who don’t know, I recently quit my previous job and will now be doing tutorials on YouTube full-time. In this video, we discuss what to expect now that this is a full-time job, and also some details about how all this will work. Thanks again to all of you who made it possible to do what I love full-time."
+
+"
+Python Tutorial: Sets – Set Methods and Operations to Solve Common Problems,In this Python Programming Tutorial, we will be looking at the Set data structure in-depth and discovering how it can help us solve some common problems. The set can not only solve certain problems more quickly but is also more efficient in many cases."
+
+"
+Python Flask Tutorials – Full Series,Tutorial 1: Getting Started"
+In this Python Flask Tutorial, we will be learning how to get started using the Flask framework. We will install the necessary packages and get a basic Hello World Application running in our browser.
+
+
+Tutorial 2: Templates
+In this Python Flask Tutorial, we will be learning how to use templates. Templates allow us to reuse sections of code over multiple routes and are great for serving up dynamic HTML pages.
+Read more…
+"
+Linux/Mac Terminal Tutorial: The Grep Command – Search Files and Directories for Patterns of Text,In this Linux/Mac terminal tutorial, we will be learning how to use the grep command. The grep command allows us to search files and directories for patterns of text. You can also pipe the output of one command into grep to get certain matches. It’s extremely useful once you learn the ins and outs. Let’s get started…"
+
+"
+How to Run Linux/Bash on Windows 10 Using the Built-In Windows Subsystem for Linux,In this video, we will be learning how to run Linux on Windows using the new Windows Subsystem for Linux that comes with Windows 10. This is an excellent way to run Bash on a Windows machine. It allows you to use all of the Bash commands we are used to using on Linux within a Windows system. We will be showing how to enable and install Linux on Windows and also go over a quick overview to see how this works. Let’s get started…"
+
+"
+Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Windows),In this Python Programming Tutorial, we will be learning how to hide passwords and secret information within environment variables on Windows machines. Hard-coding secret information is a common mistake that beginners make when learning Python. Hiding this information within environment variables allows you to access your secret information within your code without anyone else being able to see these values from your source code. Let’s get started…"
+
+"
+Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Mac & Linux),In this Python Programming Tutorial, we will be learning how to hide passwords and secret information within environment variables on Mac and Linux machines. Hard-coding secret information is a common mistake that beginners make when learning Python. Hiding this information within environment variables allows you to access your secret information within your code without anyone else being able to see these values from your source code. Let’s get started…"
+
+"
+Python Tutorial: Calculate Number of Days, Weeks, or Months to Reach Specific Goals"",""In this Python Programming Tutorial, we will be writing three different scripts to estimate how long it will take to reach certain goals. Our first script will calculate how many months it will take us to pay off a credit card. Our second script will calculate how many weeks it will take to lose a certain amount of weight. And our third script will estimate how long it will take to reach a certain number of subscribers. Let’s get started…"
+
+"
+Python Tutorial: Context Managers – Efficiently Managing Resources,In this Python Programming Tutorial, we will be learning how to use context managers to properly manage resources. Context Managers are great for when we need to setup or teardown some resources during use. So these can be used for: open and closing files, opening and closing database connections, acquiring and releasing locks, and much much more. Let’s get started…"
+
+"
+Channel Update: Look Back on the Year and Big Plans for 2018,In this Channel Update, we will be looking back on 2017 and what we’ve done this year. We will also be looking forward to 2018 and discussing the future plans for this channel. This year was the best year for this channel yet and I can’t thank you all enough. I have plenty planned for the future and I look forward to putting out great tutorials next year!"
+
+"
+Python Tutorial: Working with JSON Data using the json Module,In this Python Programming Tutorial, we will be learning how to work with JSON data. We will learn how to load JSON into Python objects from strings and how to convert Python objects into JSON strings. We will also see how to load JSON from a file and save those Python objects back to files. Let’s get started…"
+
+"
+Python Tutorial: Web Scraping with BeautifulSoup and Requests,In this Python Programming Tutorial, we will be learning how to scrape websites using the BeautifulSoup library. BeautifulSoup is an excellent tool for parsing HTML code and grabbing exactly the information you need. So whether you’re pulling down headlines from news sites, scores from sports websites, or prices from an online store… BeautifulSoup and Python will help you get this done quickly and easily. Let’s get started…"
+
+"
+Python Tutorial: re Module – How to Write and Match Regular Expressions (Regex),In this Python Programming Tutorial, we will be learning how to read, write, and match regular expressions with the re module. Regular expressions are extremely useful for matching common patterns of text such as email addresses, phone numbers, URLs, etc. Learning how to do this within Python will allow us to quickly parse files and text for the information we need. Let’s get started…"
+
+"
+"
